@@ -1,0 +1,45 @@
+	
+	List Of Features:
+	-----------------
+
+URL Component    | Lexical Feature
+------------------------------------
+URL              | Length
+URL              | Number of semicolons, underscores, question marks, equals, ampersands
+URL              | Digit to letter ratio
+Top level domain | Presence in suspicious list
+Primary domain   | Contains IP
+Primary domain   | Length
+Primary domain   | Number of digits
+Primary domain   | Number of non-alphanumeric characters
+Primary domain   | Number of hyphens
+Primary domain   | Number of @s
+Primary domain   | Presence in top 100 Alexa domains
+Subdomain        | Number of dots
+Subdomain        | Number of subdomains
+Path             | Number of ‘//’
+Path             | Number of subdirectories
+Path             | Presence of ‘%20’ in path
+Path             | Presence of uppercase directories
+Path             | Presence of single character directories
+Path             | Number of special characters
+Path             | Number of zeroes
+Path             | Ratio of uppercase to lowercase characters
+Parameters       | Length
+Query            | Number of queries
+URL              | .COM
+URL              | .CO.*
+URL		 | .BIZ
+URL 		 | .INFO
+URL		 | .INFO
+URL		 | .CN
+URL		 | .RU
+
+
+whois features:
+---------------
+who registered the domain
+who manages the regestration
+whois regestration date
+
+what is N-grams

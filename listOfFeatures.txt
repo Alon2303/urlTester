@@ -41,5 +41,3 @@ whois features:
 who registered the domain
 who manages the regestration
 whois regestration date
-
-what is N-grams
